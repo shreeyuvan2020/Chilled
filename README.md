@@ -20,9 +20,9 @@ BOM:
 
 Others:
 
-KMK Firmware
-Final.stl
-FrontCase v3.stl
+- KMK Firmware
+- Final.stl
+- FrontCase v3.stl
 
 
 PCB            |  Case         |   Schematic
